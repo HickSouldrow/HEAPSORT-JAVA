@@ -8,6 +8,7 @@ public class FaseHeapsort {
         String arquivoEntrada = "src/entrada.txt";
         String arquivoSaida   = "src/saida.txt";
 
+
         try {
             int[] dados = lerEntrada(arquivoEntrada);
 
