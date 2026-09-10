@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main {
+public class FaseHeapsort {
 
     public static void main(String[] args) {
         String arquivoEntrada = "src/entrada.txt";
